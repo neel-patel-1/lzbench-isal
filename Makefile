@@ -95,7 +95,7 @@ LDFLAGS += $(MOREFLAGS)
 
 
 ISAL_FILES = isa-l/compress-isal.o
-ISAL_FILES += /lib64/libisal.so
+ISAL_FILES += /usr/lib/libisal.so
 
 
 LZO_FILES = lzo/lzo1.o lzo/lzo1a.o lzo/lzo1a_99.o lzo/lzo1b_1.o lzo/lzo1b_2.o lzo/lzo1b_3.o lzo/lzo1b_4.o lzo/lzo1b_5.o
